@@ -84,3 +84,9 @@ footer {
     font-size: 1.3em;
     font-weight: bold;
 }
+
+@media screen and (max-width: 600px) {
+    section#ft01, section#ft02 {
+        width: 100%;
+    }
+}
