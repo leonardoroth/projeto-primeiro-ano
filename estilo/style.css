@@ -31,11 +31,11 @@ header {
     font-family: var(--fonttittle-ft);
     color: chocolate;
     text-align: center;
-    padding-bottom: 10px;
+    padding-top: 50px;
 }
 
 section {
-    margin: 30px;
+    margin: 90px;
 }
 
 section.imagem > p {
