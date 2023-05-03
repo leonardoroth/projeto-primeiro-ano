@@ -84,10 +84,3 @@ footer {
     font-size: 1.3em;
     font-weight: bold;
 }
-
-@media screen and (max-width: 480px) {
-    .section {
-        padding-left: 3px;
-        padding-right: 3px;
-    }
-}
