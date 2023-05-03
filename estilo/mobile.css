@@ -60,8 +60,8 @@ section.normal {
 }
 
 section.imagem {
-    min-height: 420px;
-    min-width: 425px;
+    min-height: 350px;
+    min-width: 350px;
     padding-top: 160px;
     padding-left: 10px;
     background-size: cover;
