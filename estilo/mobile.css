@@ -15,7 +15,7 @@
     --fontetx: 'Handlee', cursive;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
     * {
     margin: 0px;
     padding: 0px;
