@@ -15,15 +15,16 @@
     --fontetx: 'Handlee', cursive;
 }
 
-* {
+@media screen and (min-width: 600px) {
+    * {
     margin: 0px;
     padding: 0px;
 }
 
 body {
     background: linear-gradient(to bottom, black, purple);
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
     text-align: justify;
 }
 
@@ -83,4 +84,5 @@ footer {
     text-align: center;
     font-size: 1.3em;
     font-weight: bold;
+}
 }
