@@ -48,7 +48,7 @@ section.imagem > p {
     color: chocolate;
     font-size: 20px;
     line-height: 2.0em;
-    width: 330px;
+    width: 250px;
     padding: 30px;
 }
 
@@ -78,7 +78,7 @@ section#ft01 {
 
 section#ft02 {
     background-image: url('../imagens/ar-livre-pqn.jpg');
-    background-position: center center;
+    background-position: left;
 }
 
 footer {
